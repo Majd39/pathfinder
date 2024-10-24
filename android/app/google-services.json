@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470450489924",
+    "project_id": "path-finder-f586c",
+    "storage_bucket": "path-finder-f586c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470450489924:android:993fdfd89da63c32f30a11",
+        "android_client_info": {
+          "package_name": "com.example.pathfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo4Nd76sXu5wbZo297PdFe3RtlotPoNgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
